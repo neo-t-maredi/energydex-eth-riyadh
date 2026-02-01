@@ -6,6 +6,10 @@ Real-time DEX arbitrage detection and trading analytics platform. Bridging 15 ye
 
 ## Features
 
+## Dashboard
+
+![EnergyDEX Dashboard](docs/screenshots/dashboard.png)
+
 ### Core Functionality (Implemented)
 - **Live Price Monitoring** - Real-time ETH/USDC prices from Uniswap V2 & SushiSwap
 - **Multi-DEX Comparison** - Instant spread analysis across DEXs
